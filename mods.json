@@ -1,16 +1,9 @@
 [
     {
-        "id": "mod_1",
-        "name": "Super Graphics Mod",
+        "id": "TEST1",
+        "name": "ХУЙ ЕБАНЫЙ",
         "version": "1.0.0",
-        "description": "Улучшает графику в игре.",
-        "filename": "super_graphics.zip"
+        "description": "АСТРАЛИТИ.",
+        "filename": "АСТРАЛИТИ.zip"
     },
-    {
-        "id": "mod_2",
-        "name": "Fast Cars",
-        "version": "1.2",
-        "description": "Добавляет быстрые машины.",
-        "filename": "fast_cars.zip"
-    }
-]
+
