@@ -1,11 +1,13 @@
 [
     {
-        "id": "mod_1",
+        "id": "ochok_mod",
         "name": "ОЧОК МОД",
         "author": "Asstrallity",
         "version": "1.0.0",
-        "description": "Крутой мод, который делает очок.",
-        "filename": "mod.zip",
-        "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/preview1.jpg" 
+        "description": "Делает очок.",
+        
+        "filename": "OCHOK_MOD/mod.zip", 
+        
+        "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/OCHOK_MOD/preview.jpg"
     }
 ]
