@@ -1,0 +1,16 @@
+[
+    {
+        "id": "mod_1",
+        "name": "Super Graphics Mod",
+        "version": "1.0.0",
+        "description": "Улучшает графику в игре.",
+        "filename": "super_graphics.zip"
+    },
+    {
+        "id": "mod_2",
+        "name": "Fast Cars",
+        "version": "1.2",
+        "description": "Добавляет быстрые машины.",
+        "filename": "fast_cars.zip"
+    }
+]
