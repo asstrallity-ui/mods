@@ -1,58 +1,38 @@
 [
-    {
-        "id": "1",
-        "name": "ОЧОК МОД",
-        "author": "Asstrallity",
-        "version": "1.0.0",
-        "description": "Делает очок.",
-        
-        "filename": "OCHOK_MOD/mod.zip", 
-        
-        "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
-    }
+  {
+    "id": "1",
+    "name": "ОЧОК МОД",
+    "author": "Asstrallity",
+    "version": "1.0.0",
+    "description": "Делает очок.",
+    "filename": "OCHOK_MOD/mod.zip",
+    "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
+  },
+  {
+    "id": "2",
+    "name": "ОЧОК МОД",
+    "author": "Asstrallity",
+    "version": "1.0.0",
+    "description": "Делает очок.",
+    "filename": "OCHOK_MOD/mod.zip",
+    "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
+  },
+  {
+    "id": "3",
+    "name": "ОЧОК МОД",
+    "author": "Asstrallity",
+    "version": "1.0.0",
+    "description": "Делает очок.",
+    "filename": "OCHOK_MOD/mod.zip",
+    "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
+  },
+  {
+    "id": "4",
+    "name": "ОЧОК МОД",
+    "author": "Asstrallity",
+    "version": "1.0.0",
+    "description": "Делает очок.",
+    "filename": "OCHOK_MOD/mod.zip",
+    "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
+  }
 ]
-
-[
-    {
-        "id": "2",
-        "name": "ОЧОК МОД",
-        "author": "Asstrallity",
-        "version": "1.0.0",
-        "description": "Делает очок.",
-        
-        "filename": "OCHOK_MOD/mod.zip", 
-        
-        "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
-    }
-],
-
-[
-    {
-        "id": "3",
-        "name": "ОЧОК МОД",
-        "author": "Asstrallity",
-        "version": "1.0.0",
-        "description": "Делает очок.",
-        
-        "filename": "OCHOK_MOD/mod.zip", 
-        
-        "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
-    }
-],
-
-[
-    {
-        "id": "4",
-        "name": "ОЧОК МОД",
-        "author": "Asstrallity",
-        "version": "1.0.0",
-        "description": "Делает очок.",
-        
-        "filename": "OCHOK_MOD/mod.zip", 
-        
-        "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
-    }
-]
-
-
-
