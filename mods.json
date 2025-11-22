@@ -6,10 +6,17 @@
       "description": "Уникальный ремоделинг из кастомных текстур",
       "version": "RELEASE",
       "author": "Refuzo + ASSTRALLITY",
-      "preview": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg",
-      "dataFile": "Mods/Test/Data.zip",
-      "infoUrl": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/info.json"
+      "preview": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/BZ75-Divine/preview.jpg",
+      "dataFile": "Mods/BZ75-Divine/Data.zip",
+      "infoUrl": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/BZ75-Divine/info.json"
+    },
+    {
+      "id": "Hangar",
+      "name": "Кастомный Ангар из Blitz",
+      "description": "Восстановленный ангар на заказ от команды Forblitz",
+      "version": "RELEASE",
+      "author": "ASSTRALLITY",
+      "preview": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/IS7-Dark/preview.jpg",
+      "dataFile": "Mods/Hangar/Data.zip",
+      "infoUrl": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/IS7-Dark/info.json"
     }
-  ]
-}
-
