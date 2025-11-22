@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "name": "ОЧОК МОД",
+    "name": "Мод 1",
     "author": "Asstrallity",
     "version": "1.0.0",
     "description": "Делает очок.",
-    "filename": "OCHOK_MOD/mod.zip",
+    "filename": "Test/Data.zip",
     "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
   },
   {
@@ -14,7 +14,7 @@
     "author": "Asstrallity",
     "version": "1.0.0",
     "description": "Делает очок.",
-    "filename": "OCHOK_MOD/mod.zip",
+    "filename": "Test/Data.zip",
     "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
   },
   {
@@ -23,7 +23,7 @@
     "author": "Asstrallity",
     "version": "1.0.0",
     "description": "Делает очок.",
-    "filename": "OCHOK_MOD/mod.zip",
+    "filename": "Test/Data.zip",
     "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
   },
   {
@@ -32,7 +32,8 @@
     "author": "Asstrallity",
     "version": "1.0.0",
     "description": "Делает очок.",
-    "filename": "OCHOK_MOD/mod.zip",
+    "filename": "Test/Data.zip",
     "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
   }
 ]
+
