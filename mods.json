@@ -1,14 +1,15 @@
 {
   "mods": [
     {
-      "id": "test-mod",
-      "name": "Test Mod",
-      "description": "Описание тестового мода",
-      "version": "1.0.0",
-      "author": "asstrallity-ui",
+      "id": "BZ-75",
+      "name": "BZ-75 | Divine Valor",
+      "description": "Уникальный ремоделинг из кастомных текстур",
+      "version": "RELEASE",
+      "author": "Refuzo + ASSTRALLITY",
       "preview": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg",
       "dataFile": "Mods/Test/Data.zip",
       "infoUrl": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/info.json"
     }
   ]
 }
+
