@@ -1,39 +1,14 @@
-[
-  {
-    "id": "1",
-    "name": "Мод 1",
-    "author": "Asstrallity",
-    "version": "1.0.0",
-    "description": "Делает очок.",
-    "filename": "Test/Data.zip",
-    "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
-  },
-  {
-    "id": "2",
-    "name": "ОЧОК МОД",
-    "author": "Asstrallity",
-    "version": "1.0.0",
-    "description": "Делает очок.",
-    "filename": "Test/Data.zip",
-    "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
-  },
-  {
-    "id": "3",
-    "name": "ОЧОК МОД",
-    "author": "Asstrallity",
-    "version": "1.0.0",
-    "description": "Делает очок.",
-    "filename": "Test/Data.zip",
-    "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
-  },
-  {
-    "id": "4",
-    "name": "ОЧОК МОД",
-    "author": "Asstrallity",
-    "version": "1.0.0",
-    "description": "Делает очок.",
-    "filename": "Test/Data.zip",
-    "image_url": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg"
-  }
-]
-
+{
+  "mods": [
+    {
+      "id": "test-mod",
+      "name": "Test Mod",
+      "description": "Описание тестового мода",
+      "version": "1.0.0",
+      "author": "asstrallity-ui",
+      "preview": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/preview.jpg",
+      "dataFile": "Mods/Test/Data.zip",
+      "infoUrl": "https://raw.githubusercontent.com/asstrallity-ui/mods/main/Mods/Test/info.json"
+    }
+  ]
+}
